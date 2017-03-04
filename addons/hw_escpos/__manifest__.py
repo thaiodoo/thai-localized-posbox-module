@@ -6,7 +6,7 @@
     'category': 'Point of Sale',
      'version': '10.0.1.0',
     'sequence': 6,
-   'author':'winwindev@outlook.co.th',
+   'author':'Metawin Kabkaew ,winwindev@outlook.co.th',
     'website': 'https://www.thaiodoo.org',
     'summary': 'Hardware Driver for ESC/POS Printers and Cashdrawers',
     'description': """
